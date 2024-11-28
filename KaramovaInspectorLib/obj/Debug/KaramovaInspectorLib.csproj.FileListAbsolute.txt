@@ -1,0 +1,6 @@
+C:\GitHub\KaramovaInspectorLib\KaramovaInspectorLib\bin\Debug\KaramovaInspectorLib.dll
+C:\GitHub\KaramovaInspectorLib\KaramovaInspectorLib\bin\Debug\KaramovaInspectorLib.pdb
+C:\GitHub\KaramovaInspectorLib\KaramovaInspectorLib\obj\Debug\KaramovaInspectorLib.csproj.AssemblyReference.cache
+C:\GitHub\KaramovaInspectorLib\KaramovaInspectorLib\obj\Debug\KaramovaInspectorLib.csproj.CoreCompileInputs.cache
+C:\GitHub\KaramovaInspectorLib\KaramovaInspectorLib\obj\Debug\KaramovaInspectorLib.dll
+C:\GitHub\KaramovaInspectorLib\KaramovaInspectorLib\obj\Debug\KaramovaInspectorLib.pdb
